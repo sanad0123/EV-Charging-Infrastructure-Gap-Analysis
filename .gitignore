@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Python/Conda
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.conda/
+
+# OS/IDEs
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
