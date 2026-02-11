@@ -13,3 +13,6 @@ venv/
 .DS_Store
 .vscode/
 .ipynb_checkpoints/
+data_raw/
+data_processed/
+cache
