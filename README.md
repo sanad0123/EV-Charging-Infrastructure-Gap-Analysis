@@ -9,7 +9,7 @@ This project predicts Electric Vehicle (EV) charging infrastructure demand at th
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ev-gap-prediction.git
+git clone https://github.com/sanad0123/EV-Charging-Infrastructure-Gap-Analysis.git
 cd ev-gap-prediction
 ```
 
